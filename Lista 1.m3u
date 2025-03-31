@@ -1,20 +1,26 @@
 #EXTM3U
-#EXTINF:0 tvg-country="UN" tvg-logo="https://www.intersatelital.com.bo/wp-content/uploads/2017/04/hbo-premium.png" group-title="Undefined",HBO PREMIUM
-https://s.vdo.ai/vhs/1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2 East (720p)
-https://fl2.moveonjoy.com/HBO_2/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2 East (720p)
-https://fl5.moveonjoy.com/HBO_2/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",Canal 3 KMK TV (720p)
-https://cloudvideo.servers10.com:8081/8120/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",Canal 9 (720p) [Geo-blocked]
-http://201.201.149.86:8080/livestream/stream.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",Fa (720p)
-https://list.iptvcat.com/my_list/s/e7a49b44af22f9c00bbd7141f4807e05.m3u8
-
-
-
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="Undefined",EBS 1 (400p)
+http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="Undefined",EBS 1 (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="Undefined",EBS E (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="Undefined",EBS 2 (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="Undefined",EBS 1 (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="Undefined",EBS+ 2 (400p)
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="Undefined",EBS+ 2 (400p)
+http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="Undefined",EBS+ 1 (400p)
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="Undefined",EBS+ 1 (400p)
+http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="Kids",EBS kids (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="" group-title="Kids",EBS KIDS (400p)
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
 
 
 https://x.com/MandyPaken41/status/1845483786592747540
